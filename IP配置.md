@@ -65,4 +65,7 @@ Port 22改为想要的端口
 ## 配置远程桌面：
 
  https://blog.csdn.net/hancoder/article/details/102882153 
+ 
+## 显卡驱动+cuda安装
 
+ https://blog.csdn.net/hancoder/article/details/86634415 
