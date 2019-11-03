@@ -1,5 +1,5 @@
 ## 配置IP
-
+https://blog.csdn.net/hancoder/article/details/102881903
 ##### 查询路由器映射：
 
 输入路由器IP地址：`XXX.XXX.XXX.XXX`登录后，点击NAT配置，点击内部服务器，可以看到网络映射情况。
